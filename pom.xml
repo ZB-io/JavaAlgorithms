@@ -26,6 +26,13 @@
         <version>0.0.40</version>
         <!--Dependency added by RoostGPT-->
       </dependency>
+      <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-params</artifactId>
+        <version>5.10.3</version>
+        <scope>compile</scope>
+        <!--Dependency added by RoostGPT-->
+      </dependency>
     </dependencies>
   </dependencyManagement>
   <dependencies>
@@ -61,6 +68,13 @@
       <groupId>io.spring.javaformat</groupId>
       <artifactId>spring-javaformat-formatter</artifactId>
       <version>0.0.40</version>
+      <!--Dependency added by RoostGPT-->
+    </dependency>
+    <dependency>
+      <groupId>org.junit.jupiter</groupId>
+      <artifactId>junit-jupiter-params</artifactId>
+      <version>5.10.3</version>
+      <scope>compile</scope>
       <!--Dependency added by RoostGPT-->
     </dependency>
   </dependencies>
