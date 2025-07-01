@@ -1,0 +1,11 @@
+^|^event_code^|^statusCode^|^scenario
+12345^|^login_success^|^200^|^{"user":"john_doe","device":"mobile","timestamp":"2023-10-01T12:00:00Z"}
+67890^|^login_failure^|^401^|^{"user":"jane_smith","device":"desktop","timestamp":"2023-10-01T12:05:00Z"}
+23456^|^logout^|^200^|^{"user":"alice_jones","device":"mobile","timestamp":"2023-10-01T12:10:00Z"}
+34567^|^logout^|^200^|^{"user":"bob_brown","device":"desktop","timestamp":"2023-10-01T12:15:00Z"}
+45678^|^register_success^|^201^|^{"user":"charlie_white","device":"mobile","timestamp":"2023-10-01T12:20:00Z"}
+56789^|^register_failure^|^400^|^{"user":"david_black","device":"desktop","timestamp":"2023-10-01T12:25:00Z"}
+67891^|^password_reset^|^200^|^{"user":"eve_green","device":"mobile","timestamp":"2023-10-01T12:30:00Z"}
+78901^|^password_reset^|^200^|^{"user":"frank_yellow","device":"desktop","timestamp":"2023-10-01T12:35:00Z"}
+89012^|^account_locked^|^403^|^{"user":"grace_purple","device":"mobile","timestamp":"2023-10-01T12:40:00Z"}
+90123^|^account_unlocked^|^200^|^{"user":"heidi_blue","device":"desktop","timestamp":"2023-10-01T12:45:00Z"}
