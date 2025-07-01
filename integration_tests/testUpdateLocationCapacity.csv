@@ -1,0 +1,11 @@
+^|^capacity^|^statusCode^|^scenario
+1^|^100^|^200^|^{"name":"Scenario1","description":"First scenario"}
+2^|^150^|^201^|^{"name":"Scenario2","description":"Second scenario"}
+3^|^200^|^202^|^{"name":"Scenario3","description":"Third scenario"}
+4^|^250^|^203^|^{"name":"Scenario4","description":"Fourth scenario"}
+5^|^300^|^204^|^{"name":"Scenario5","description":"Fifth scenario"}
+6^|^350^|^205^|^{"name":"Scenario6","description":"Sixth scenario"}
+7^|^400^|^206^|^{"name":"Scenario7","description":"Seventh scenario"}
+8^|^450^|^207^|^{"name":"Scenario8","description":"Eighth scenario"}
+9^|^500^|^208^|^{"name":"Scenario9","description":"Ninth scenario"}
+10^|^550^|^209^|^{"name":"Scenario10","description":"Tenth scenario"}
